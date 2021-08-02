@@ -1,6 +1,10 @@
 
+function start_game() {
+  console.log("Game starting....")
+}
+
 function main() {
-  console.log("hello world")
+  start_game()
 }
 
 main()
